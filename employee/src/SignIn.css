@@ -1,0 +1,33 @@
+.signIn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    padding: 30px;
+    padding-left: 50px;
+}
+.image{
+    background-color: rgba(70, 81, 241, 0.392); 
+background-color: #2896d6a3;
+background-image: linear-gradient(160deg, #126ded 0%, #bcf1eb 100%);
+}
+.input{
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.forgot{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    width: 100%;
+    margin-top: 10px;
+}
+#dont{
+    margin-left: -50px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
